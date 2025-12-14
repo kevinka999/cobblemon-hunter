@@ -1,0 +1,743 @@
+[
+  {
+    "item_name": "Golden Apple",
+    "effects": [
+      {
+        "category": "REDUCE_BITE_TIME_PERCENT",
+        "value": "25"
+      },
+      {
+        "category": "BOOST_RARITY_BUCKET",
+        "value": "1"
+      },
+      {
+        "category": "INCREASE_SHINY_CHANCE_MULTIPLIER",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "item_name": "Enchanted Golden Apple",
+    "effects": [
+      {
+        "category": "REDUCE_BITE_TIME_PERCENT",
+        "value": "10"
+      },
+      {
+        "category": "BOOST_RARITY_BUCKET",
+        "value": "10"
+      },
+      {
+        "category": "INCREASE_SHINY_CHANCE_MULTIPLIER",
+        "value": "10"
+      }
+    ]
+  },
+  {
+    "item_name": "Glistering Melon Slice",
+    "effects": [
+      {
+        "category": "BOOST_RARITY_BUCKET",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "item_name": "Golden Carrot",
+    "effects": [
+      {
+        "category": "BOOST_RARITY_BUCKET",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "item_name": "Starf Berry",
+    "effects": [
+      {
+        "category": "INCREASE_SHINY_CHANCE_MULTIPLIER",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "item_name": "Enigma Berry",
+    "effects": [
+      {
+        "category": "ATTRACT_HIDDEN_ABILITY",
+        "value": null
+      }
+    ]
+  },
+  {
+    "item_name": "Sweet Berries",
+    "effects": [
+      {
+        "category": "REDUCE_BITE_TIME_PERCENT",
+        "value": "12.5"
+      }
+    ]
+  },
+  {
+    "item_name": "Glow Berries",
+    "effects": [
+      {
+        "category": "REDUCE_BITE_TIME_PERCENT",
+        "value": "25"
+      }
+    ]
+  },
+  {
+    "item_name": "Custap Berry",
+    "effects": [
+      {
+        "category": "REDUCE_BITE_TIME_PERCENT",
+        "value": "25"
+      },
+      {
+        "category": "INCREASE_REEL_CHANCE",
+        "value": "70"
+      }
+    ]
+  },
+  {
+    "item_name": "Micle Berry",
+    "effects": [
+      {
+        "category": "REDUCE_BITE_TIME_PERCENT",
+        "value": "25"
+      },
+      {
+        "category": "INCREASE_REEL_CHANCE",
+        "value": "100"
+      }
+    ]
+  },
+  {
+    "item_name": "Oran Berry",
+    "effects": [
+      {
+        "category": "REDUCE_BITE_TIME_PERCENT",
+        "value": "33"
+      }
+    ]
+  },
+  {
+    "item_name": "Apple",
+    "effects": [
+      {
+        "category": "REDUCE_BITE_TIME_PERCENT",
+        "value": "50"
+      }
+    ]
+  },
+  {
+    "item_name": "Sitrus Berry",
+    "effects": [
+      {
+        "category": "REDUCE_BITE_TIME_PERCENT",
+        "value": "50"
+      }
+    ]
+  },
+  {
+    "item_name": "Leppa Berry",
+    "effects": [
+      {
+        "category": "BOOST_POKEMON_LEVEL",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "item_name": "Hopo Berry",
+    "effects": [
+      {
+        "category": "BOOST_POKEMON_LEVEL",
+        "value": "10"
+      }
+    ]
+  },
+  {
+    "item_name": "Pomeg Berry",
+    "effects": [
+      {
+        "category": "ATTRACT_HP_EV_YIELD",
+        "value": null
+      }
+    ]
+  },
+  {
+    "item_name": "Kelpsy Berry",
+    "effects": [
+      {
+        "category": "ATTRACT_ATTACK_EV_YIELD",
+        "value": null
+      }
+    ]
+  },
+  {
+    "item_name": "Qualot Berry",
+    "effects": [
+      {
+        "category": "ATTRACT_DEFENSE_EV_YIELD",
+        "value": null
+      }
+    ]
+  },
+  {
+    "item_name": "Hondew Berry",
+    "effects": [
+      {
+        "category": "ATTRACT_SPECIAL_ATTACK_EV_YIELD",
+        "value": null
+      }
+    ]
+  },
+  {
+    "item_name": "Grepa Berry",
+    "effects": [
+      {
+        "category": "ATTRACT_SPECIAL_DEFENSE_EV_YIELD",
+        "value": null
+      }
+    ]
+  },
+  {
+    "item_name": "Tamato Berry",
+    "effects": [
+      {
+        "category": "ATTRACT_SPEED_EV_YIELD",
+        "value": null
+      }
+    ]
+  },
+  {
+    "item_name": "Jaboca Berry",
+    "effects": [
+      {
+        "category": "BOOST_FRIENDSHIP",
+        "value": "100"
+      }
+    ]
+  },
+  {
+    "item_name": "Kee Berry",
+    "effects": [
+      {
+        "category": "ATTRACT_FEMALE_POKEMON",
+        "value": null
+      }
+    ]
+  },
+  {
+    "item_name": "Maranga Berry",
+    "effects": [
+      {
+        "category": "ATTRACT_MALE_POKEMON",
+        "value": null
+      }
+    ]
+  },
+  {
+    "item_name": "Rowap Berry",
+    "effects": [
+      {
+        "category": "DROPS_REROLL_COUNT",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "item_name": "Lansat Berry",
+    "effects": [
+      {
+        "category": "BOOST_HP_IVS",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "item_name": "Liechi Berry",
+    "effects": [
+      {
+        "category": "BOOST_ATTACK_IVS",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "item_name": "Ganlon Berry",
+    "effects": [
+      {
+        "category": "BOOST_DEFENSE_IVS",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "item_name": "Petaya Berry",
+    "effects": [
+      {
+        "category": "BOOST_SPECIAL_ATTACK_IVS",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "item_name": "Apicot Berry",
+    "effects": [
+      {
+        "category": "BOOST_SPECIAL_DEFENSE_IVS",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "item_name": "Salac Berry",
+    "effects": [
+      {
+        "category": "BOOST_SPEED_IVS",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "item_name": "Lum Berry",
+    "effects": [
+      {
+        "category": "BOOST_EGG_GROUP_DRAGON",
+        "value": "10"
+      },
+      {
+        "category": "BOOST_EGG_GROUP_MONSTER",
+        "value": "10"
+      }
+    ]
+  },
+  {
+    "item_name": "Pecha Berry",
+    "effects": [
+      {
+        "category": "BOOST_EGG_GROUP_WATER_3",
+        "value": "10"
+      },
+      {
+        "category": "BOOST_EGG_GROUP_BUG",
+        "value": "10"
+      }
+    ]
+  },
+  {
+    "item_name": "Cheri Berry",
+    "effects": [
+      {
+        "category": "BOOST_EGG_GROUP_FAIRY",
+        "value": "10"
+      },
+      {
+        "category": "BOOST_EGG_GROUP_GRASS",
+        "value": "10"
+      }
+    ]
+  },
+  {
+    "item_name": "Chesto Berry",
+    "effects": [
+      {
+        "category": "BOOST_EGG_GROUP_HUMAN_LIKE",
+        "value": "10"
+      },
+      {
+        "category": "BOOST_EGG_GROUP_FLYING",
+        "value": "10"
+      }
+    ]
+  },
+  {
+    "item_name": "Rawst Berry",
+    "effects": [
+      {
+        "category": "BOOST_EGG_GROUP_FIELD",
+        "value": "10"
+      }
+    ]
+  },
+  {
+    "item_name": "Aspear Berry",
+    "effects": [
+      {
+        "category": "BOOST_EGG_GROUP_WATER_1",
+        "value": "10"
+      },
+      {
+        "category": "BOOST_EGG_GROUP_WATER_2",
+        "value": "10"
+      }
+    ]
+  },
+  {
+    "item_name": "Persim Berry",
+    "effects": [
+      {
+        "category": "BOOST_EGG_GROUP_MINERAL",
+        "value": "10"
+      },
+      {
+        "category": "BOOST_EGG_GROUP_AMORPHOUS",
+        "value": "10"
+      }
+    ]
+  },
+  {
+    "item_name": "Tanga Berry",
+    "effects": [
+      {
+        "category": "BOOST_TYPE_BUG",
+        "value": "10"
+      }
+    ]
+  },
+  {
+    "item_name": "Colbur Berry",
+    "effects": [
+      {
+        "category": "BOOST_TYPE_DARK",
+        "value": "10"
+      }
+    ]
+  },
+  {
+    "item_name": "Haban Berry",
+    "effects": [
+      {
+        "category": "BOOST_TYPE_DRAGON",
+        "value": "10"
+      }
+    ]
+  },
+  {
+    "item_name": "Rindo Berry",
+    "effects": [
+      {
+        "category": "BOOST_TYPE_GRASS",
+        "value": "10"
+      }
+    ]
+  },
+  {
+    "item_name": "Wacan Berry",
+    "effects": [
+      {
+        "category": "BOOST_TYPE_ELECTRIC",
+        "value": "10"
+      }
+    ]
+  },
+  {
+    "item_name": "Roseli Berry",
+    "effects": [
+      {
+        "category": "BOOST_TYPE_FAIRY",
+        "value": "10"
+      }
+    ]
+  },
+  {
+    "item_name": "Chople Berry",
+    "effects": [
+      {
+        "category": "BOOST_TYPE_FIGHTING",
+        "value": "10"
+      }
+    ]
+  },
+  {
+    "item_name": "Occa Berry",
+    "effects": [
+      {
+        "category": "BOOST_TYPE_FIRE",
+        "value": "10"
+      }
+    ]
+  },
+  {
+    "item_name": "Coba Berry",
+    "effects": [
+      {
+        "category": "BOOST_TYPE_FLYING",
+        "value": "10"
+      }
+    ]
+  },
+  {
+    "item_name": "Kasib Berry",
+    "effects": [
+      {
+        "category": "BOOST_TYPE_GHOST",
+        "value": "10"
+      }
+    ]
+  },
+  {
+    "item_name": "Shuca Berry",
+    "effects": [
+      {
+        "category": "BOOST_TYPE_GROUND",
+        "value": "10"
+      }
+    ]
+  },
+  {
+    "item_name": "Yache Berry",
+    "effects": [
+      {
+        "category": "BOOST_TYPE_ICE",
+        "value": "10"
+      }
+    ]
+  },
+  {
+    "item_name": "Chilan Berry",
+    "effects": [
+      {
+        "category": "BOOST_TYPE_NORMAL",
+        "value": "10"
+      }
+    ]
+  },
+  {
+    "item_name": "Kebia Berry",
+    "effects": [
+      {
+        "category": "BOOST_TYPE_POISON",
+        "value": "10"
+      }
+    ]
+  },
+  {
+    "item_name": "Payapa Berry",
+    "effects": [
+      {
+        "category": "BOOST_TYPE_PSYCHIC",
+        "value": "10"
+      }
+    ]
+  },
+  {
+    "item_name": "Charti Berry",
+    "effects": [
+      {
+        "category": "BOOST_TYPE_ROCK",
+        "value": "10"
+      }
+    ]
+  },
+  {
+    "item_name": "Babiri Berry",
+    "effects": [
+      {
+        "category": "BOOST_TYPE_STEEL",
+        "value": "10"
+      }
+    ]
+  },
+  {
+    "item_name": "Passho Berry",
+    "effects": [
+      {
+        "category": "BOOST_TYPE_WATER",
+        "value": "10"
+      }
+    ]
+  },
+  {
+    "item_name": "Razz Berry",
+    "effects": [
+      {
+        "category": "ATTRACT_ATTACK_NATURE",
+        "value": "25"
+      }
+    ]
+  },
+  {
+    "item_name": "Figy Berry",
+    "effects": [
+      {
+        "category": "ATTRACT_ATTACK_NATURE",
+        "value": "50"
+      }
+    ]
+  },
+  {
+    "item_name": "Touga Berry",
+    "effects": [
+      {
+        "category": "ATTRACT_ATTACK_NATURE",
+        "value": "75"
+      }
+    ]
+  },
+  {
+    "item_name": "Spelon Berry",
+    "effects": [
+      {
+        "category": "ATTRACT_ATTACK_NATURE",
+        "value": "100"
+      }
+    ]
+  },
+  {
+    "item_name": "Pinap Berry",
+    "effects": [
+      {
+        "category": "ATTRACT_DEFENSE_NATURE",
+        "value": "25"
+      }
+    ]
+  },
+  {
+    "item_name": "Iapapa Berry",
+    "effects": [
+      {
+        "category": "ATTRACT_DEFENSE_NATURE",
+        "value": "50"
+      }
+    ]
+  },
+  {
+    "item_name": "Nomel Berry",
+    "effects": [
+      {
+        "category": "ATTRACT_DEFENSE_NATURE",
+        "value": "75"
+      }
+    ]
+  },
+  {
+    "item_name": "Belue Berry",
+    "effects": [
+      {
+        "category": "ATTRACT_DEFENSE_NATURE",
+        "value": "100"
+      }
+    ]
+  },
+  {
+    "item_name": "Bluk Berry",
+    "effects": [
+      {
+        "category": "ATTRACT_SPECIAL_ATTACK_NATURE",
+        "value": "25"
+      }
+    ]
+  },
+  {
+    "item_name": "Wiki Berry",
+    "effects": [
+      {
+        "category": "ATTRACT_SPECIAL_ATTACK_NATURE",
+        "value": "50"
+      }
+    ]
+  },
+  {
+    "item_name": "Cornn Berry",
+    "effects": [
+      {
+        "category": "ATTRACT_SPECIAL_ATTACK_NATURE",
+        "value": "75"
+      }
+    ]
+  },
+  {
+    "item_name": "Pamtre Berry",
+    "effects": [
+      {
+        "category": "ATTRACT_SPECIAL_ATTACK_NATURE",
+        "value": "100"
+      }
+    ]
+  },
+  {
+    "item_name": "Wepear Berry",
+    "effects": [
+      {
+        "category": "ATTRACT_SPECIAL_DEFENSE_NATURE",
+        "value": "25"
+      }
+    ]
+  },
+  {
+    "item_name": "Aguav Berry",
+    "effects": [
+      {
+        "category": "ATTRACT_SPECIAL_DEFENSE_NATURE",
+        "value": "50"
+      }
+    ]
+  },
+  {
+    "item_name": "Rabuta Berry",
+    "effects": [
+      {
+        "category": "ATTRACT_SPECIAL_DEFENSE_NATURE",
+        "value": "75"
+      }
+    ]
+  },
+  {
+    "item_name": "Durin Berry",
+    "effects": [
+      {
+        "category": "ATTRACT_SPECIAL_DEFENSE_NATURE",
+        "value": "100"
+      }
+    ]
+  },
+  {
+    "item_name": "Nanab Berry",
+    "effects": [
+      {
+        "category": "ATTRACT_SPEED_NATURE",
+        "value": "25"
+      }
+    ]
+  },
+  {
+    "item_name": "Mago Berry",
+    "effects": [
+      {
+        "category": "ATTRACT_SPEED_NATURE",
+        "value": "50"
+      }
+    ]
+  },
+  {
+    "item_name": "Magost Berry",
+    "effects": [
+      {
+        "category": "ATTRACT_SPEED_NATURE",
+        "value": "75"
+      }
+    ]
+  },
+  {
+    "item_name": "Watmel Berry",
+    "effects": [
+      {
+        "category": "ATTRACT_SPEED_NATURE",
+        "value": "100"
+      }
+    ]
+  },
+  {
+    "item_name": "Eggant Berry",
+    "effects": [
+      {
+        "category": "NO_EFFECT",
+        "value": null
+      }
+    ]
+  }
+]
